@@ -1,1 +1,7 @@
+title: CS167 Machine Learning
+email: meredith.moore@drake.edu
+description: "Course materials and notes for Drake University's CS167: Machine Learning"
+baseurl: ""
+url: "https://cs167.github.io"
+
 theme: jekyll-theme-minimal
