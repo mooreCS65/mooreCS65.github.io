@@ -4,7 +4,7 @@ This website is where you will be able to find course resources like code, assig
 
 Everything is currently under construction, so hard hats on 👷 --proceed with caution 🏗️ 🚧
 
-## Schedule:
+## Schedule 📆 
 
 
 | Week | Topics                                                               | Date | Assigned | Due      |
@@ -26,9 +26,9 @@ Everything is currently under construction, so hard hats on 👷 --proceed with 
 | 15   | Finals week (no final in this class)                                 |      |          |          |
 
 
-## Syllabus:
+## Syllabus ☑️
 
-## FAQ: 
+## FAQ ❓
 1. [When are things due?](/key/)
 2. [How do I sign up for office hours?](/calendly_tutorial/)
 3. [How should I go about emailing you?](/email_tips/)
