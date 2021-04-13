@@ -1,6 +1,8 @@
 # Welcome to CS167
 
 This website is where you will be able to find course resources like code, assignments and slides. The schedule below will be kept up to date.
+
+Everything is currently under construction, so hard hats on--proceed with caution 👷🏗️ 🚧
 ## Schedule:
 [when are things due?](/key/)
 
