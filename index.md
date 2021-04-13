@@ -2,7 +2,7 @@
 
 This website is where you will be able to find course resources like code, assignments and slides. 
 
-[Trying to link a post](/first_post/)
+[Trying to link a post](/test/)
 ## Schedule:
 
 | Week | Topics                                                               | Date | Assigned | Due      |
