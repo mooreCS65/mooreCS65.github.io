@@ -14,7 +14,7 @@ This website is where you will be able to find course resources like code, assig
 | 6    | Midterm Review <br>Midterm (take home)                               |      |          |          |
 | 7    | Random Forests <br>Project #1                                        |      |  P1 <br>     |  N4  <br>    |
 | 8    | Support Vector Machines <br>Principal Component Analysis             |      | SE5<br>      |  <br>SE5     |
-| 9    | Linear Models: Perceptron, SGD <br>Multilayer Perceptrons            |      | SE6 <br>N5   |  P1, <br>SE6 |
+| 9    | Linear Models: Perceptron, SGD <br>Multilayer Perceptrons            |      | SE6 <br>N5   |  <br>P1, SE6 |
 | 10   | Convolutional Neural Networks I <br>Convolutional Neural Networks II |      |  N6<br>      |  N5<br>      |
 | 11   | Naive Bayes                                                          |      | SE7<br> N7   |  <br>SE7     |
 | 12   | Text Classification                                                  |      | SE8<br>      |  <br>N7,SE8  |
