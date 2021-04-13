@@ -7,7 +7,7 @@ This website is where you will be able to find course resources like code, assig
 
 | Week | Topics                                                               | Date | Assigned | Due      |
 |------|----------------------------------------------------------------------|------|----------|----------|
-| 1    | Intro to Machine Learning <br> Python and Pandas Review              |      | SE1 <br>     |          |
+| 1    | [Intro to Machine Learning](/intro2ML/) <br> Python and Pandas Review              |      | SE1 <br>     |          |
 | 2    | Python, Pandas <br>K-Nearest Neighbors                               |      | N1  <br>     | SE1  <br>    |
 | 3    | kNN Implementation <br>w-kNN Normalization and Graphs                |      | SE2 <br>N2   | N1 <br>SE2   |
 | 4    | Metrics and Testing <br>Decision Trees                               |      | SE3 <br>N3   |  N2, SE3 |
