@@ -6,7 +6,7 @@ permalink: /intro2ML/
 
 # Introduction to Machine Learning
 
-[Slides](https://docs.google.com/presentation/d/1F5BRlNr6tW1SfAwn-zhKSfE5s-Y1r1Olx50ZYldFa8Y/edit?usp=sharing) | Video | Code
+[Slides](https://docs.google.com/presentation/d/1F5BRlNr6tW1SfAwn-zhKSfE5s-Y1r1Olx50ZYldFa8Y/edit?usp=sharing) \| Video \| Code
 
 ## Table of Contents:
 - [What is Machine Learning?](##What-is-Machine-Learning) <br>
