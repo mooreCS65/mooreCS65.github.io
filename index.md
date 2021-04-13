@@ -2,6 +2,7 @@
 
 This website is where you will be able to find course resources like code, assignments and slides. The schedule below will be kept up to date.
 ## Schedule:
+[when are things due?](/key/)
 
 | Week | Topics                                                               | Date | Assigned | Due      |
 |------|----------------------------------------------------------------------|------|----------|----------|
