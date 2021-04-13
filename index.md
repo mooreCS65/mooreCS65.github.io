@@ -5,7 +5,7 @@ This website is where you will be able to find course resources like code, assig
 Everything is currently under construction, so hard hats on 👷 --proceed with caution 🏗️ 🚧
 
 ## Schedule:
-[when are things due?](/key/)
+
 
 | Week | Topics                                                               | Date | Assigned | Due      |
 |------|----------------------------------------------------------------------|------|----------|----------|
@@ -29,3 +29,4 @@ Everything is currently under construction, so hard hats on 👷 --proceed with 
 ## Syllabus:
 
 ## FAQ: 
+[when are things due?](/key/)
