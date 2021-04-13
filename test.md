@@ -2,6 +2,7 @@
 layout: page
 title: "Trying out Github Pages and Jekyll"
 permalink: /test/
+markdown: kramdown
 theme: jekyll-theme-minimal
 ---
 
