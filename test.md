@@ -2,6 +2,7 @@
 layout: page
 title: "Trying out Github Pages and Jekyll"
 permalink: /test/
+theme: jekyll-theme-minimal
 ---
 
 # Building a Website on Github Pages
