@@ -2,7 +2,8 @@
 
 This website is where you will be able to find course resources like code, assignments and slides. The schedule below will be kept up to date.
 
-Everything is currently under construction, so hard hats on--proceed with caution 👷🏗️ 🚧
+Everything is currently under construction, so hard hats on 👷 --proceed with caution 🏗️ 🚧
+
 ## Schedule:
 [when are things due?](/key/)
 
@@ -23,3 +24,8 @@ Everything is currently under construction, so hard hats on--proceed with cautio
 | 13   | Exam #2 Review <br>Exam #2 (take home)                               |      | E2 <br>P2    |  <br>E2      |
 | 14   | Advanced Machine Learning Techniques                                 |      |          |  <br>P2      |
 | 15   | Finals week (no final in this class)                                 |      |          |          |
+
+
+## Syllabus:
+
+## FAQ: 
