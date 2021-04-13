@@ -1,6 +1,8 @@
+---
 layout: page
 title: "Trying out Github Pages and Jekyll"
 permalink: /test/
+---
 
 # Building a Website on Github Pages
 
