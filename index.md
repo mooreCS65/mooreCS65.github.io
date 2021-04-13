@@ -1,8 +1,6 @@
-## Welcome to CS167
+# Welcome to CS167
 
-This website is where you will be able to find course resources like code, assignments and slides. 
-
-[Trying to link a post](/test/)
+This website is where you will be able to find course resources like code, assignments and slides. The schedule below will be kept up to date.
 ## Schedule:
 
 | Week | Topics                                                               | Date | Assigned | Due      |
