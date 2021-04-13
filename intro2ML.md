@@ -24,6 +24,8 @@ approach and the **machine learning** approach.
 
 #### The Artificial Intelligence Approach:
 Develop a heuristic (some sort of way to tell the value of a given piece)... let's say:
+
+
 | Piece  | Points |
 |--------|--------|
 | Queen  | 12     |
