@@ -29,4 +29,7 @@ Everything is currently under construction, so hard hats on 👷 --proceed with 
 ## Syllabus:
 
 ## FAQ: 
-[when are things due?](/key/)
+1. [when are things due?](/key/)
+2. [How do I sign up for office hours?](/calendly_tutorial/)
+3. [How should I go about emailing you?](/email_tips/)
+4. [Who are you? What kind of research do you do?]
