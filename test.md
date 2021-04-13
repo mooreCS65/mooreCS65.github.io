@@ -1,9 +1,8 @@
 ---
-layout: page
+layout: default
 title: "Trying out Github Pages and Jekyll"
 permalink: /test/
 markdown: kramdown
-theme: jekyll-theme-minimal
 ---
 
 # Building a Website on Github Pages
