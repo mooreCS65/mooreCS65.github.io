@@ -6,7 +6,9 @@ permalink: /intro2ML/
 
 # Introduction to Machine Learning
 
-Table of Contents:
+[Slides](https://docs.google.com/presentation/d/1F5BRlNr6tW1SfAwn-zhKSfE5s-Y1r1Olx50ZYldFa8Y/edit?usp=sharing) | Video | Code
+
+## Table of Contents:
 - [What is Machine Learning?](##What-is-Machine-Learning) <br>
   - [Two approaches to Intelligence](###Two-approaches-to-Intelligence)<br>
     - [The Artificial Intelligence Approach](####The-Artificial-Intelligence-Approach) <br>
