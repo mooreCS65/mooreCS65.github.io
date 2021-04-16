@@ -13,6 +13,14 @@ permalink: /f21_syllabus/
 - [Course Description](##Course-Description)
 - [Course Goals](##Course-Goals)
 - [Grading Policy](##Grading-Policy)
+  - [Short Exercises](###Short-Exercises)
+  - [Notebooks](###Notebooks)
+  - [Projects](###Projects)
+  - [Exams](###Exams)
+- [Collaboration Policy](##Collaboration-Policy)
+- [Academic Integrity](##Academic-Integrity)
+- [Student Disability Services](##Student-Disability-Services)
+- [Covid-19 Course and University Policies](##Covid-19-Course-and-University-Policies)
 
 ## Instructor:
 
