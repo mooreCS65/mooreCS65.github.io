@@ -9,8 +9,12 @@ permalink: /email_tips/
 Here are a few tips to make our communication as efficient as possible this semester.
 
 ## 1. Who:
-Let's start by the **who** to send it to. If you are looking for help debugging your code, make sure you not only send it to [Professor Moore](mailto:meredith.moore@drake.edu), 
-but that you also CC the TA (the TA is currently TBD, and I will update it with their information once they are assigned). This increases your chances of getting a 
+Let's start by the **who** to send it to. If you are looking for help debugging your code, make sure you send it to both:
+- to [Professor Moore](mailto:meredith.moore@drake.edu)
+- The CS167 TA (TBD)
+
+
+If you also CC the TA (the TA is currently TBD, and I will update it with their information once they are assigned). This increases your chances of getting a 
 quick response to your question. 
 
 ## 2. What: 
