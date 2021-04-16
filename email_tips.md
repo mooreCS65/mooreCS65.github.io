@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Email Tips
 permalink: /email_tips/
 ---
