@@ -1,7 +1,7 @@
 ---
 layout: deafult
-permalink: /email_tips/
 title: Email Tips
+permalink: /email_tips/
 ---
 
 # ✉️ Email Tips 
@@ -23,3 +23,11 @@ A successful email to the professor, specifcially an email that is looking for h
 ## 3. When:
 While the Instructor and TAs will do their best to respond to your questions quickly and efficiently, the closer to the deadline that you ask the question, 
 the less likely there will be time for us to answer your question before the deadline. Get started on your assignments early, and be sure to ask questions early and often.
+
+# Examples:
+
+## What _not_ to do:
+Here is an example of an email that is not very helpful. See if you can spot what Timmy did wrong:
+![A screenshot of an email that does not meet the guidelines above](_assets/bad_email.png)
+
+
