@@ -15,6 +15,7 @@ quick response to your question.
 
 ## 2. What: 
 A successful email to the professor, specifcially an email that is looking for help debugging some code should have a few components:
+- **Descriptive Subject**: Start off with a Subject line that is descriptive. Include the Course Number (CS167), your Section Number (0 or 1), and the assignment that you are having trouble with.
 - **Problem**: Include a concise description of the problem 
 - **The Error**: What's gone wrong? Is there an error? If so, be sure to include the error. Make sure it's easy to understand where you got stuck.
 - **Things you've tried**: Include a description of what you've tried to get past this problem so far. Not sure where to start? Check out these [debugging tips](/debugging_tips/).
@@ -30,4 +31,8 @@ the less likely there will be time for us to answer your question before the dea
 Here is an example of an email that is not very helpful. See if you can spot what Timmy did wrong:
 ![A screenshot of an email that does not meet the guidelines above](_assets/bad_email.png)
 
+
+## What to do:
+Here is an example of an email that includes all of the above. 
+![A screenshot of an email that meets the above guidelines](_assets/good_email.png)
 
