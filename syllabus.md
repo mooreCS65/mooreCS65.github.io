@@ -169,7 +169,3 @@ If you experience Covid-19 symptoms or a fever, even if you do not test positive
 Fill out your information using the following [Drake self-monitoring form](https://drake.qualtrics.com/jfe/form/SV_eSbezU698csxbcp).
 
 
-
-
-
-
