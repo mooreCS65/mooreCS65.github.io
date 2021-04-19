@@ -22,10 +22,10 @@ Everything is currently under construction, so hard hats on 👷 --proceed with 
 | 8    | Support Vector Machines <br>Principal Component Analysis             |      | SE5<br>      |  <br>SE5     |
 | 9    | Linear Models: Perceptron, SGD <br>Multilayer Perceptrons            |      | SE6 <br>N5   |  <br>P1, SE6 |
 | 10   | Convolutional Neural Networks I <br>Convolutional Neural Networks II |      |  N6<br>      |  N5<br>      |
-| 11   | Naive Bayes                                                          |      | SE7<br> N7   |  <br>SE7     |
-| 12   | Text Classification                                                  |      | SE8<br>      |  <br>N7,SE8  |
+| 11   | Recurrent Neural Networks                                            |      | SE7<br> N7   |  <br>SE7     |
+| 12   | Natural Language Processing                                          |      | SE8<br>      |  <br>N7,SE8  |
 | 13   | Exam #2 Review <br>Exam #2 (take home)                               |      | E2 <br>P2    |  <br>E2      |
-| 14   | Advanced Machine Learning Techniques                                 |      |          |  <br>P2      |
+| 14   | Advanced Machine Learning Techniques <br> (GANs, Autoencoders, Speech Processing)           |      |          |  <br>P2      |
 | 15   | Finals week (no final in this class)                                 |      |          |          |
 
 
