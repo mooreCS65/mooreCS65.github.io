@@ -1,8 +1,9 @@
+
 ---
 layout: default
 title: CS167: Fall 2021 Syllabus
 markdown: kramdown
-permalink: /f21_syllabus
+permalink: /f21syllabus/
 ---
 
 # CS167: Fall 2021 Syllabus
