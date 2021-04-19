@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: CS167: Fall 2021 Syllabus
