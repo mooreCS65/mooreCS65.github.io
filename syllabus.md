@@ -1,7 +1,7 @@
 ---
 layout: default
 title: CS167: Fall 2021 Syllabus
-permalink: /f21_syllabus/
+permalink: /f21_syllabus
 ---
 
 # CS167: Fall 2021 Syllabus
