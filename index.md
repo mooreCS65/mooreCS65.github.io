@@ -7,12 +7,14 @@ Everything is currently under construction, so hard hats on 👷 --proceed with 
 ## Syllabus:
 [Fall 2021 Syllabus](/f21syllabus/)
 
+[Trying to link to Syllabus](/f21syllabus/)
+
 ## Schedule 📆 
 
 
 | Week | Topics                                                               | Date | Assigned | Due      |
 |------|----------------------------------------------------------------------|------|----------|----------|
-| 1    | [Intro to Machine Learning](/intro2ML/) <br> Python and Pandas Review              |      | SE1 <br>     |          |
+| 1    | [Intro to Machine Learning](/intro2ML/) <br> Python and Pandas Review|      | SE1 <br>     |          |
 | 2    | Python, Pandas <br>K-Nearest Neighbors                               |      | N1  <br>     | SE1  <br>    |
 | 3    | kNN Implementation <br>w-kNN Normalization and Graphs                |      | SE2 <br>N2   | N1 <br>SE2   |
 | 4    | Metrics and Testing <br>Decision Trees                               |      | SE3 <br>N3   |  N2, SE3 |
