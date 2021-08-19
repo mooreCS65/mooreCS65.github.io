@@ -11,7 +11,7 @@ Everything is currently under construction, so hard hats on 👷 --proceed with 
 
 ## Schedule 📆 
 
-<iframe width='100%' height='1500' src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQQIK3ICThTXzli65d9zouUjcV5Sfz-KTBl52g-wqVuiBlqoH2oPKOLldfhv4TEJJURbNEQfhNbb5oN/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe width='100%' height='800' src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQQIK3ICThTXzli65d9zouUjcV5Sfz-KTBl52g-wqVuiBlqoH2oPKOLldfhv4TEJJURbNEQfhNbb5oN/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 ## Syllabus ☑️
 
