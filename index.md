@@ -12,23 +12,38 @@ Everything is currently under construction, so hard hats on 👷 --proceed with 
 ## Schedule 📆 
 
 
-| Week | Topics                                                               | Date | Assigned | Due      |
-|------|----------------------------------------------------------------------|------|----------|----------|
-| 1    | [Intro to Machine Learning](/intro2ML/) <br> Python and Pandas Review|      | SE1 <br>     |          |
-| 2    | Python, Pandas <br>K-Nearest Neighbors                               |      | N1  <br>     | SE1  <br>    |
-| 3    | kNN Implementation <br>w-kNN Normalization and Graphs                |      | SE2 <br>N2   | N1 <br>SE2   |
-| 4    | Metrics and Testing <br>Decision Trees                               |      | SE3 <br>N3   |  N2, SE3 |
-| 5    | Introduction to Scikit-Learn <br>Random Forests                      |      | SE4 <br>N4   |  N3, <br>SE4 |
-| 6    | Midterm Review <br>Midterm (take home)                               |      |          |          |
-| 7    | Random Forests <br>Project #1                                        |      |  P1 <br>     |  N4  <br>    |
-| 8    | Support Vector Machines <br>Principal Component Analysis             |      | SE5<br>      |  <br>SE5     |
-| 9    | Linear Models: Perceptron, SGD <br>Multilayer Perceptrons            |      | SE6 <br>N5   |  <br>P1, SE6 |
-| 10   | Convolutional Neural Networks I <br>Convolutional Neural Networks II |      |  N6<br>      |  N5<br>      |
-| 11   | Recurrent Neural Networks                                            |      | SE7<br> N7   |  <br>SE7     |
-| 12   | Natural Language Processing                                          |      | SE8<br>      |  <br>N7,SE8  |
-| 13   | Exam #2 Review <br>Exam #2 (take home)                               |      | E2 <br>P2    |  <br>E2      |
-| 14   | Advanced Machine Learning Techniques <br> (GANs, Autoencoders, Speech Processing)           |      |          |  <br>P2      |
-| 15   | Finals week (no final in this class)                                 |      |          |          |
+| Lecture # | Date  | Topic                                  | Slides | Code | Assigned | Due |
+|-----------|-------|----------------------------------------|--------|------|----------|-----|
+| 1         | 8/31  | Introduction to Machine Learning       |        |      |          |     |
+| 2         | 9/2   | Python and Pandas Review               |        |      |          |     |
+| 3         | 9/7   | Python and Pandas                      |        |      |          |     |
+| 4         | 9/9   | K-Nearest Neighbors                    |        |      |          |     |
+| 5         | 9/14  | kNN implementation                     |        |      |          |     |
+| 6         | 9/16  | w-kNN Normalization and Graphs         |        |      |          |     |
+| 7         | 9/21  | Metrics and Testing                    |        |      |          |     |
+| 8         | 9/23  | Decision Trees                         |        |      |          |     |
+| 9         | 9/28  | Introduction to Scikit Learn           |        |      |          |     |
+| 10        | 9/30  | Introduction to Scikit Learn II        |        |      |          |     |
+| 11        | 10/5  | Midterm Review                         |        |      |          |     |
+| 12        | 10/7  | Midterm Exam                           |        |      |          |     |
+| 13        | 10/12 | Random Forests                         |        |      |          |     |
+| 14        | 10/14 | Project #1                             |        |      |          |     |
+|           | 10/19 | Fall Break -- No Class                 |        |      |          |     |
+| 15        | 10/21 | Support Vector Machines                |        |      |          |     |
+| 16        | 10/26 | Principal Component Analysis           |        |      |          |     |
+| 17        | 10/28 | Linear Models: Perceptron, SGD, MLP    |        |      |          |     |
+| 18        | 11/2  | Perceptron and SGD (code)              |        |      |          |     |
+| 19        | 11/4  | Artificial Neural Networks             |        |      |          |     |
+| 20        | 11/9  | MLP Code and Intro to CNNs             |        |      |          |     |
+| 21        | 11/11 | Intro to Convolutional Neural Networks |        |      |          |     |
+| 22        | 11/16 | Recurrent Neural Networks I            |        |      |          |     |
+| 23        | 11/18 | Recurrent Neural Networks II           |        |      |          |     |
+| 24        | 11/23 | Natural Language Processing            |        |      |          |     |
+|           | 11/25 | Thanksgiving Break -- No Class         |        |      |          |     |
+| 25        | 11/30 | Exam #2 Review                         |        |      |          |     |
+| 26        | 12/2  | Exam #2                                |        |      |          |     |
+| 27        | 12/7  | Advanced Machine Learning Techniques   |        |      |          |     |
+| 28        | 12/9  | Advanced Machine Learning Techniques   |        |      |          |     |
 
 
 ## Syllabus ☑️
