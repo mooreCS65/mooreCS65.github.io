@@ -16,3 +16,7 @@ permalink: /Day01/
 
 ## Code
 None today!
+
+## You should be working on
+
+## Notes
