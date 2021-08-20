@@ -2,7 +2,6 @@
 layout: default
 title: "Trying out Github Pages and Jekyll"
 permalink: /test/
-markdown: kramdown
 ---
 
 # CS167: Fall 2021 Syllabus
