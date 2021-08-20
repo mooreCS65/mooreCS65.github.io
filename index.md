@@ -6,6 +6,7 @@ Everything is currently under construction, so hard hats on 👷 --proceed with 
 
 ## Syllabus:
 [Fall 2021 Syllabus](../f21syllabus/)
+[Test](/test/)
 
 [Trying to link to Syllabus](/f21syllabus/)
 
