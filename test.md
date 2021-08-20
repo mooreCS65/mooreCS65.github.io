@@ -66,6 +66,12 @@ We will follow portions of a variety of sources in this class and so there is no
 ## Course Content:
 The schedule for the course can be found on the course [homepage](/index.md/).
 
+## Course Communication:
+We will be utilizing a combination of Slack, Email, and Blackboard for this course. The assignments will be posted to Blackboard and will be turned in using Blackboard. Should you have questions on an assignment, please either use Slack or Email. Check out the [email tips](/email_tips/) section to see how you can ensure you'll get a helpful response back. In short, make sure that your email:
+- Is sent to **both me and the TA** if it is in regards to debugging code
+- Has a **descriptive subject**: for example **"CS167 Section 1 Notebook #4 Help"**
+- Includes a concise description of **your problem**, **the error**, **things you've tried**, **link to your Github repository**
+
 ## Grading:
 The following table shows the categories of graded items and how much weight they each carry towards your final course grade:
 
