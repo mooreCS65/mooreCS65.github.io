@@ -33,10 +33,12 @@ the less likely there will be time for us to answer your question before the dea
 
 ## What _not_ to do:
 Here is an example of an email that is not very helpful. See if you can spot what Timmy did wrong:
+
 ![A screenshot of an email that does not meet the guidelines above](/bad_email_new.png)
 
 
 ## What to do:
-Here is an example of an email that includes all of the above. 
+Here is an example of an email that includes all of the above. Please note that you should use the actual TA's email address, as ImTheCCS167TA@drake.edu is not a real email address, the TA is currently TBD, so I haven't included the real email. 
+
 ![A screenshot of an email that meets the above guidelines](/good_email_new.png)
 
