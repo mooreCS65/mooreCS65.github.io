@@ -33,6 +33,7 @@ Teaching Assistant: TBA <br>
 ## Class Meeting Time and Place:
 
 Tuesday and Thursday: <br>
+
 | **Section** |**Time** |**Place**|
 | ---------- | ---------- | ----------| 
 | Section 0 | 12:30-1:45pm | Collier Scripps 301|
@@ -40,6 +41,7 @@ Tuesday and Thursday: <br>
 
 ## Office Hours
 I will be [using Calendly to schedule office hours](https://calendly.com/meredith-moore/office-hours). Feel free to grab more than one slot if you don't think 15 minutes is enough time. <br>
+
 | **Monday** |**Tuesday** |**Wednesday**|**Thursday** |**Friday**|
 | ---------- | ---------- | ----------| ---------- | ----------| 
 | 12:30 - 3:00 | by appt | 12:30 - 3:00| by appt | virtual only by appt |
@@ -78,6 +80,7 @@ The following table shows the categories of graded items and how much weight the
 For all graded items, late submissions or make-ups will not be accepted unless an exception is granted by the instructor prior to the due date.  
  
 Final grades will be awarded based on the following scale: 
+
 | **Percentage** | **Grade**|
 |------------------|---------------|
 | 92.0-100 | A|
