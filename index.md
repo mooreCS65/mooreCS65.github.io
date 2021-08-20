@@ -5,7 +5,7 @@ This website is where you will be able to find course resources like code, assig
 Everything is currently under construction, so hard hats on 👷 --proceed with caution 🏗️ 🚧
 
 ## Syllabus:
-[Fall 2021 Syllabus](../f21syllabus/)
+[Fall 2021 Syllabus](/f21syllabus/)
 [Test](/test/)
 
 [Trying to link to Syllabus](/f21syllabus/)
