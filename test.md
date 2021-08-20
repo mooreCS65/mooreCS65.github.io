@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Trying out Github Pages and Jekyll"
-permalink: /test/
+title: "CS167 Syllabus Fall 2021"
+permalink: /syllabus/
 ---
 
 # CS167: Fall 2021 Syllabus
