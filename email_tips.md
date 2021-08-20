@@ -33,10 +33,10 @@ the less likely there will be time for us to answer your question before the dea
 
 ## What _not_ to do:
 Here is an example of an email that is not very helpful. See if you can spot what Timmy did wrong:
-![A screenshot of an email that does not meet the guidelines above](https://github.com/cs167/cs167.github.io/blob/main/_assets/bad_email.png)
+![A screenshot of an email that does not meet the guidelines above](/bad_email.png)
 
 
 ## What to do:
 Here is an example of an email that includes all of the above. 
-![A screenshot of an email that meets the above guidelines](/_assets/good_email.png)
+![A screenshot of an email that meets the above guidelines](/good_email.png)
 
