@@ -17,6 +17,7 @@ permalink: /syllabus/
   - [Notebooks](###Notebooks)
   - [Projects](###Projects)
   - [Exams](###Exams)
+- [Attendance](##Attendance)
 - [Collaboration Policy](##Collaboration-Policy)
 - [Academic Integrity](##Academic-Integrity)
 - [Student Disability Services](##Student-Disability-Services)
@@ -44,7 +45,7 @@ I will be [using Calendly to schedule office hours](https://calendly.com/meredit
 
 | **Monday** |**Tuesday** |**Wednesday**|**Thursday** |**Friday**|
 | ---------- | ---------- | ----------| ---------- | ----------| 
-| 12:30 - 3:00 | by appt | 12:30 - 3:00| by appt | virtual only by appt |
+| 12:30 - 2:00 | 11:00 - 12:30| 12:30 - 2:00| 11:00-12:30| by appt |
 
 ## Course Description:
 This course introduces approaches to developing computer programs that learn from data. Both foundational and contemporary machine learning algorithms will 
@@ -117,8 +118,11 @@ the mark-up cells than for your regular notebook assignments.
 
 ### Exams:
 There are two exams which are very tentatively scheduled for:
-- Exam #1: TBA
-- Exam #2: TBA
+- Exam #1: October 7th
+- Exam #2: December 2nd
+
+## Attendance
+While in-person attendance is very strongly encouraged, I will also be allowing virtual attendance. Each lecture will be recorded and uploaded to Blackboard and this website as soon as possible after class. While I will do my best to ensure the virtual experience is similar to the in-person experience, there are some elements that are difficult to replicate--group work, white board sessions, etc. Know that you may miss out on some of these experiences if you choose not to attend in person. 
 
 ## Collaboration Policy
 As a default policy, you may work with each other on projects and assignments; however, every student must implement program code, perform experiments,
