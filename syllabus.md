@@ -29,7 +29,7 @@ Meredith Moore <br>
 meredith.moore@drake.edu <br>
 325 Collier-Scrips (office) <br>
 
-Teaching Assistant: <br>
+**Teaching Assistant**: <br>
 Brendan Algard <br>
 brendan.algard@drake.edu <br>
 
