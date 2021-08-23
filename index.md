@@ -2,7 +2,7 @@
 
 This website is where you will be able to find course resources like code, assignments and slides. The schedule below will be kept up to date.
 
-Everything is currently under construction, so hard hats on 👷 --proceed with caution 🏗️ 🚧
+Assignment descriptions can be found on Blackboard and should be turned in using Blackboard.
 
 ## Syllabus:
 
