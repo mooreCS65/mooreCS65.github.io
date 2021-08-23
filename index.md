@@ -10,8 +10,6 @@ Everything is currently under construction, so hard hats on 👷 --proceed with 
 
 ## Schedule 📆 
 
-[Day01](/Day01/)
-
 <iframe width='90%' height='700' src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQQIK3ICThTXzli65d9zouUjcV5Sfz-KTBl52g-wqVuiBlqoH2oPKOLldfhv4TEJJURbNEQfhNbb5oN/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 ## FAQ ❓
