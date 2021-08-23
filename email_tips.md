@@ -11,11 +11,9 @@ Here are a few tips to make our communication as efficient as possible this seme
 ## 1. Who:
 Let's start by the **who** to send it to. If you are looking for help debugging your code, make sure you send it to both:
 - to [Professor Moore](mailto:meredith.moore@drake.edu)
-- The CS167 TA (TBD)
+- The CS167 TA: [Brendan Algard](mailto:brendan.algard@drake.edu)
 
-
-If you also CC the TA (the TA is currently TBD, and I will update it with their information once they are assigned). This increases your chances of getting a 
-quick response to your question. 
+If you also CC the TA this increases your chances of getting a quick response to your question. 
 
 ## 2. What: 
 A successful email to the professor, specifcially an email that is looking for help debugging some code should have a few components:
