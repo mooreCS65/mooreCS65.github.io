@@ -104,7 +104,7 @@ along the process of building out your project and make sure you are making prog
 
 ### Exams (20%):
 There are two exams, each of which are worth 10% of your final grade. They are very tentatively scheduled for:
-- Exam #1: October 20th
+- Exam #1: October 13th 
 - Exam #2: November 22nd
 
 ## Attendance
