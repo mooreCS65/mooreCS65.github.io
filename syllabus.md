@@ -4,7 +4,7 @@ title: "CS167 Syllabus Fall 2021"
 permalink: /syllabus/
 ---
 
-# CS195: Fall 2021 Syllabus
+# CS195: HCI Fall 2021 Syllabus
 
 This syllabus is subject to change throughout the semester. This page will be kept up to date.
 
@@ -89,7 +89,7 @@ There will be 10 short exercises throughout the semester that will require you t
 Each of these short exercises are worth 1% of your final grade. Whether the short exercise should be completed individually or as a group will be 
 communicated for each short exercise.
 
-## Reading Reflections (10%): 
+### Reading Reflections (10%): 
 Reading reflections will ask you to first, complete the reading that was assigned. Then you will be asked to not just summarize, but reflect on the reading
 and write a brief reflection that will be posted on Slack. Then you will be asked to read and interact with your peer's reflections. We will start class 
 by having a discussion around the reading and your reflections. 
