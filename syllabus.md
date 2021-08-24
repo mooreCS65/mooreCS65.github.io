@@ -33,7 +33,9 @@ I will be [using Calendly to schedule office hours](https://calendly.com/meredit
 ## Course Description:
 In this course, you will learn how to design technologies that bring people joy, rather than frustration.  
 Designs fail for many reasons, but most often, the underlying problem is a lack of understanding users (humans)
-including their abilities, needs and goals. This course provides an introduction to and overview of the field 
+including their abilities, needs and goals. 
+
+This course provides an introduction to and overview of the field 
 of human-computer interaction (HCI). HCI is an interdisciplinary field that integrates theories and methodologies 
 from computer science, psychology, design, and many other areas.  
   
