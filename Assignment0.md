@@ -5,7 +5,9 @@ permalink: /A0/
 ---
 
 # Assigment 0: Hello World
-This is the first assignment of the semester. It is assigned on 8/30 and due on 9/1. 
+This is the first assignment of the semester. 
+
+**Due**: September 1st, 2021 by 11:59pm
 
 It consists of the following parts: 
 
