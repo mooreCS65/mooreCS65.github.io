@@ -13,16 +13,18 @@ It consists of the following parts:
 
 ## Part 1: Introductory Questionnaire
 Fill out the [Introductory Questionnaire](https://forms.gle/LG131Pri4ziiKr3x5).
+  - Be sure to use your Drake email address.
 
 ## Part 2: Introduction to Slack
 1. [Join the Slack Workspace](https://join.slack.com/t/hci-f21/shared_invite/zt-us259xj5-Go00xrmOYvHNIFWGytSqxQ)
-2. **Say Hello**: Navigate to the [#hello-world channel](https://hci-f21.slack.com/archives/C02C7KWEQSE). In this channel please post answers to the following questions: 
+  - Be sure to use your Drake email address.
+3. **Say Hello**: Navigate to the [#hello-world channel](https://hci-f21.slack.com/archives/C02C7KWEQSE). In this channel please post answers to the following questions: 
   - Where are you from?
   - Why are you taking this course?
   - What do you do when you're not taking this course?
   - What's one interesting fact about you?
   - A (school appropriate) meme to describe how you're feeling about the upcoming semester. 
-3. **Interact and Socialize**
+4. **Interact and Socialize**
   - Reply to someon else's introductory post with something that you found interesting, 
 a shared common interest, or a follow-up question. Just generally engage with at least one of our classmates.
   - React to someon else's post using an emoji.
