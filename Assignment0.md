@@ -7,14 +7,10 @@ permalink: /A0/
 # Assigment 0: Hello World
 This is the first assignment of the semester. It is assigned on 8/30 and due on 9/1. 
 
-## How to turn it in:
-For ease of grading, I'm asking you to document the 4 steps in Part 2 using screenshots. Please take a screenshot of your original post to #hello-world, 
-your interaction with a classmate, and your DM. Put these screenshots in a document and submit that document to the Blackboard assignment link before the end of the day on 9/1 (11:59pm).
-
 It consists of the following parts: 
 
 ## Part 1:
-Introductory Questionnaire: https://forms.gle/LG131Pri4ziiKr3x5
+Fill out the [Introductory Questionnaire](https://forms.gle/LG131Pri4ziiKr3x5).
 
 ## Part 2: Introduction to Slack
 1. [Join the Slack Workspace](https://join.slack.com/t/hci-f21/shared_invite/zt-us259xj5-Go00xrmOYvHNIFWGytSqxQ)
@@ -41,3 +37,7 @@ a shared common interest, or a follow-up question. Just generally engage with at
 - Send me a quick Direct Message with whatever you'd like--a quick hello, something you're excited/nervous about this semester, 
 a question about the course, a picture of your pet...
 
+
+## How to turn it in:
+For ease of grading, I'm asking you to document the 4 steps in Part 2 using screenshots. Please take a screenshot of your original post to #hello-world, 
+your interaction with a classmate, and your DM. Put these screenshots in a document and submit that document to the Blackboard assignment link before the end of the day on 9/1 (11:59pm).
