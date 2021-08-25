@@ -7,6 +7,7 @@ Assignment descriptions can be found on Blackboard and should be turned in using
 ## Syllabus:
 
 [Fall 2021 Syllabus](/syllabus/)
+
 [Assignment 0](/A0/)
 
 ## Schedule 📆 
