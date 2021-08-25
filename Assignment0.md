@@ -11,7 +11,7 @@ This is the first assignment of the semester.
 
 It consists of the following parts: 
 
-## Part 1:
+## Part 1: Introductory Questionnaire
 Fill out the [Introductory Questionnaire](https://forms.gle/LG131Pri4ziiKr3x5).
 
 ## Part 2: Introduction to Slack
