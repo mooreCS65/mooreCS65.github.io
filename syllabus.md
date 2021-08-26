@@ -14,10 +14,6 @@ Meredith Moore <br>
 meredith.moore@drake.edu <br>
 325 Collier-Scrips (office) <br>
 
-### Teaching Assistant: <br>
-Brendan Algard <br>
-brendan.algard@drake.edu <br>
-
 ## Class Meeting Time and Place:
 
 Monday and Wednedsay: 11:00am - 12:15pm <br>
@@ -73,12 +69,12 @@ The following table shows the categories of graded items and how much weight the
 
 | **Graded Items** | **Percentage**|
 |------------------|---------------|
-| Short Exercises  | 10%|
+| Short Exercises     | 10%|
 | Reading Reflections | 10%|
-| Assignments      | 20%|
-| Project          | 40%|
-| Exam #1          | 10%|
-| Exam #2          | 10%|
+| Assignments         | 20%|
+| Project             | 40%|
+| Exam #1             | 10%|
+| Exam #2             | 10%|
 
 For all graded items, late submissions or make-ups will not be accepted unless an exception is granted by the instructor prior to the due date.  
 
@@ -95,7 +91,7 @@ and write a brief reflection that will be posted on Slack. Then you will be aske
 by having a discussion around the reading and your reflections. 
 
 ### Assignments (20%): 
-There will be three assignments totaling 30% of your final grade (10% each). These assignments will give you a chance to practice the skills you've learned in class. 
+There will be 4 assignments totaling 20% of your final grade (5% each). These assignments will give you a chance to practice the skills you've learned in class. 
 
 ### Project (40%):
 You will participate in a semester long project in which you will design, implement, and evaluate a user interface. User interface design is an iterative process, 
