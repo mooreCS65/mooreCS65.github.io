@@ -1,3 +1,8 @@
+---
+layout: default
+title: "CS195 HCI"
+---
+
 ## Welcome to CS195 Human Computer Interaction
 
 This website is where you will be able to find course resources like code, assignments and slides. The schedule below will be kept up to date.
