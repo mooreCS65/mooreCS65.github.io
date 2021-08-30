@@ -1,5 +1,6 @@
 ---
 layout: default
+markdown: kramdown
 title: "CS195 HCI"
 ---
 
