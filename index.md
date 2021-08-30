@@ -20,7 +20,7 @@ Assignment descriptions can be found on Blackboard and should be turned in using
 ## Schedule 📆 
 
 <iframe width='90%' height='700' src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR1jv1Cvq23kUSv1nYLVjKMspRdJR2JbOmveobQd1j5jKzjs32-mykJeOpEtoMsVFA60Z-syJzMuhuq/pubhtml?gid=626707304&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
-
+<br>
 
 ## Key:
 
