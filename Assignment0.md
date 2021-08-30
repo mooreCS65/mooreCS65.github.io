@@ -30,7 +30,7 @@ Fill out the [Teach Access Accessibility Pre-Test](https://docs.google.com/forms
 3. **Interact and Socialize**:
   - Reply to someone else's introductory post with something that you found interesting, 
 a shared common interest, or a follow-up question. Just generally engage with at least one of our classmates.
-  - React to someon else's post using an emoji.
+  - React to someone else's post using an emoji.
 4. **Send me a DM**:
   - Send me a quick Direct Message with whatever you'd like--a quick hello, something you're excited/nervous about this semester, 
 a question about the course, a picture of your pet...
