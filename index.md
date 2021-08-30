@@ -23,6 +23,8 @@ Assignment descriptions can be found on Blackboard and should be turned in using
 
 
 ## Key:
+
+
 | Abbr. | Deliverable Type   | Time Due:    |
 |-------|--------------------|--------------|
 | SE    | Short Exercise     | End of Class |
