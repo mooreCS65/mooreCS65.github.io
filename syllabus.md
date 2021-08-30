@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "CS167 Syllabus Fall 2021"
+title: "CS195 Syllabus Fall 2021"
 permalink: /syllabus/
 ---
 
