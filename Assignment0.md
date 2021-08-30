@@ -28,7 +28,7 @@ Fill out the [Teach Access Accessibility Pre-Test](https://docs.google.com/forms
   - What's one interesting fact about you?
   - A (school appropriate) meme to describe how you're feeling about the upcoming semester. 
 3. **Interact and Socialize** [ 1 point ]:
-  - Reply to someon else's introductory post with something that you found interesting, 
+  - Reply to someone else's introductory post with something that you found interesting, 
 a shared common interest, or a follow-up question. Just generally engage with at least one of our classmates.
   - React to someon else's post using an emoji.
 4. **Send me a DM** [ 1 point ]:
