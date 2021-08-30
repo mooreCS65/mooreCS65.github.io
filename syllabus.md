@@ -41,7 +41,7 @@ tools, both from a theoretical and practical point of view, in use by today’s 
 
 
 ## Course Goals:
-In general, this couse will teach you how to understand user needs, turn those needs into design requirements, build a prototype from 
+In general, this course will teach you how to understand user needs, turn those needs into design requirements, build a prototype from 
 those requirements, and evaluate and iterate on your design. 
 - Learn the basic physiological, perceptual, and cognitive components of human learning and memory.  
 - Identify needs from users, identify any challenges they have with respect to using a technology or interface, and uncover opportunities for design.
@@ -51,13 +51,13 @@ those requirements, and evaluate and iterate on your design.
 - Understand good design principles and methods
 - Understand how to evaluate and improve upon a design.
 - Understand Accessibility and Universal Design
-
+- Be able to apply the above principles to advanced HCI modalities: Virtual and Augmented Reality, Games, Assistive Technologies, etc.
 
 ## Sources
 We will follow portions of a variety of sources in this class and so there is no required textbook. A nonexhaustive list of sources can be found [here](/resources/).
 
 ## Course Content:
-The schedule for the course can be found on the course [homepage](/index.md/).
+The schedule for the course can be found on the course [homepage](/index.md/). It will be kept as up to date as possible. 
 
 ## Course Communication:
 We will be utilizing a combination of Slack, Email, and Blackboard for this course. The assignments will be posted to Blackboard 
@@ -111,7 +111,7 @@ Final grades will be awarded based on the following scale:
 
 | **Percentage** | **Grade**|
 |------------------|---------------|
-| 92.0-100  | A|
+| 92.0-100  | A |
 | 90.0-92.0 | A-|
 | 88.0-90.0 | B+|
 | 82.0-88.0 | B |
