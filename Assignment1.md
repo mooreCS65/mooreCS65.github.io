@@ -16,7 +16,7 @@ This assignment is worth  a total of 12 points:
 3. **Gather data**, through desk and field research about the chosen activity. 
     - [ 1 point ] What solutions already exist?
     - [ 1 point ] **Observe**: Make some observations of your user group doing the task. Take clear notes, and if possible, provide multiple types of data.
-    - [ 1 point ] **Interview Prep**: Prepare some questions that you would like to ask individuals from your user group
+    - [ 1 point ] **Interview Prep**: Prepare at least 3 questions that you would like to ask individuals from your user group--you are welcome to come up with more than 3.
     - [ 2 points ]**Interview**: Talk to at least 2 people who are part of your user group and ask them at least your prepared questions.
 4. [1 point ] Identify needs/product opportunities.
 
