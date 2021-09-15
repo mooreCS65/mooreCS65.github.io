@@ -9,7 +9,7 @@ permalink: /A1/
 
 This assignment will give you an opportunity to practice your needfinding skills in the real world.
 
-This assignment is worth  a total of 12 points:
+This assignment is worth  a total of 16 points:
 
 ## Part 1: Needfinding
 1. [ 3 points ] **List 3 combinations of user groups + activity**. Be mindful of the scope here.
@@ -17,9 +17,10 @@ This assignment is worth  a total of 12 points:
 3. **Gather data**, through desk and field research about the chosen activity. 
     - [ 1 point ] What solutions already exist?
     - [ 1 point ] **Observe**: Make some observations of your user group doing the task. Take clear notes, and if possible, provide multiple types of data.
-    - [ 1 point ] **Interview Prep**: Prepare at least 3 questions that you would like to ask individuals from your user group--you are welcome to come up with more than 3.
-    - [ 2 points ]**Interview**: Talk to at least 2 people who are part of your user group and ask them at least your prepared questions. Shoot for around 10 minute interviews.
-4. [1 point ] **Identify needs.** Be sure to include at least one **expressed need** and one **latent need**. Please be specific and thorough.
+    - [ 3 point ] **Interview Prep**: Prepare at least 3 questions that you would like to ask individuals from your user group--you are welcome to come up with more than 3.
+    - [ 2 points ] **Interview**: Talk to at least 2 people who are part of your user group and ask them at least your prepared questions. Shoot for around 10 minute interviews.
+    - [ 1 point ] **Analyze your Interviews:** Take notes on each interview and summarize the conversation. Did you find anything to be particularly suprising/interesting?
+4. [ 2 points ] **Identify needs.** Be sure to include at least one **expressed need** and one **latent need**. Please be specific and thorough.
 
 To submit this assignment, please include your work for all 4 of these steps in a document (or link to a folder on Drive if you have audio/video recordings), 
 to Blackboard before the due date. 
