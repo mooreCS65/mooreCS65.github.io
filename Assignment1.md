@@ -11,7 +11,6 @@ This assignment will give you an opportunity to practice your needfinding skills
 
 This assignment is worth  a total of 16 points:
 
-## Part 1: Needfinding
 1. [ 3 points ] **List 3 combinations of user groups + activity**. Be mindful of the scope here.
 2. [ 3 points ] Using one combination from question #1, form at least **three testable hypotheses**.
 3. **Gather data**, through desk and field research about the chosen activity. 
