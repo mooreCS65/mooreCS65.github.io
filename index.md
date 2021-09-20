@@ -15,7 +15,7 @@ Assignment descriptions can be found on Blackboard and should be turned in using
 [Fall 2021 Syllabus](/syllabus/)
 
 ## Assignments:
-[Assignment 0](/A0/)
+[Assignment 0](/A0/) <br>
 [Assignment 1](/A1/)
 
 ## Project Deliverables
