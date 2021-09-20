@@ -20,6 +20,8 @@ Use the slack channel [#project-team-formation](https://hci-f21.slack.com/archiv
   - Your teamname:
   - Team members: 
 
+From the email, I'll create groups on blackboard. You will only need to submit one copy of P0 for your group to blackboard.
+
 ## Submit to Blackboard
 A 1-page (or less) report that identifies:
 
