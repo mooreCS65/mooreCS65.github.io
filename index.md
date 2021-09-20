@@ -16,6 +16,10 @@ Assignment descriptions can be found on Blackboard and should be turned in using
 
 ## Assignments:
 [Assignment 0](/A0/)
+[Assignment 1](/A1/)
+
+## Project Deliverables
+[Project Deliveralbe 0](/P0/)
 
 ## Schedule 📆 
 
