@@ -19,7 +19,7 @@ Assignment descriptions can be found on Blackboard and should be turned in using
 [Assignment 1](/A1/)
 
 ## Project Deliverables
-[Project Deliveralbe 0](/P0/)
+[Project Deliverable 0](/P0/)
 
 ## Schedule 📆 
 
