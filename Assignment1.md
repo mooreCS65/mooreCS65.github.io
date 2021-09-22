@@ -5,7 +5,7 @@ permalink: /A1/
 ---
 
 # Assigment 1: Needfinding
-**Due:** ~~Wednesday 9/22 by 11:59 pm.~~ Extension granted until Friday 9/24 by 11:59pm.
+**Due:** ~~Wednesday 9/22 by 11:59 pm.~~ Extension granted until **Friday 9/24 by 11:59pm.**
 
 This assignment will give you an opportunity to practice your needfinding skills in the real world.
 
