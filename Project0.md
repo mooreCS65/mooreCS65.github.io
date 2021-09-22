@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "CS195 A1"
+title: "CS195 P0"
 permalink: /P0/
 ---
 
