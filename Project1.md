@@ -4,7 +4,7 @@ title: "CS195 P1"
 permalink: /P1/
 ---
 
-# Project Deliverable 1: Needfinding and Ideation
+# Project Deliverable 1: Needfinding and Ideation [ 50 points ] 
 
 **Due**: Monday, 10/4 by 11:59 pm.
 
@@ -17,6 +17,7 @@ In this second step, your team will work together to:
 2. Build out two personas
 3. Brainstorm ideas to address the user needs from step 1. 
 4. Create storyboards for **N** of your best ideas from step 3.  
+5. Fill out a self and peer evaluation for this assignment.
 
 ## Part 1: Interviews [18 points]
 
@@ -33,7 +34,7 @@ and the rows each corresponding to a question.
 
 e. [ 3 points ] What did you discover from these interviews? List at least 3, but preferably 5-6 user needs. Provide evidence for these needs as quotes from your interviewees, or clips of audio/video. 
 
-## Part 3: Personas [ 10 points ]
+## Part 2: Personas [ 10 points ]
 Using the interview results, create two personas [ 5 points each ], one for each stakeholder group. 
 
 Each personas should be around one page in length, and should include: 
@@ -45,7 +46,7 @@ Each personas should be around one page in length, and should include:
 
 Tip: Think of who most of your target users will be and attempt to create a persona that covers their major needs. 
 
-## Part 4: Ideation [ 8 points ]
+## Part 3: Ideation [ 8 points ]
 a. [2 points ] Start by individually coming up with as many ideas as possible to meet the needs that you've discovered.
 
 b. [2 points ] Meet up with your group and share your ideas. Have a brainstorming session and use the brainstorming tips that we discussed in class. 
@@ -57,12 +58,15 @@ d. [2 points ] Create a new short list of high achievability and high impact ide
 
 Please include the results from each stage of the ideation process (a-d).
 
-## Part 5: Storyboarding [ 8 points ]
-From the list you created in part 4, pick **N** (the number of people in your group) features to storyboard 
+## Part 4: Storyboarding [ 8 points ]
+From the list you created in part 3, pick **N** (the number of people in your group) features to storyboard 
 (if your final list from part 4 is too short and doen't have enough ideas for N features, go back and do more brainstorming!).
 
 Each feature should have it's own storyboard. You may draw the storyboards by hand either on paper or digitally or use a storyboarding tool. 
 Optional: you may use photos/images within your storyboard.
+
+## Part 5: Self and Peer Evaluation [ 6 points ] 
+Please [fill out this form](https://forms.gle/J9N4GrV37bKz84tQ6) to provide feedback on how effectively your group is working together. I will compile the results and provide a score out of 6 for each person that will represent how effective of a team member they have been. 
 
 
 
