@@ -10,6 +10,7 @@ permalink: /A2/
 This assignment will give you an opportunity to practice using Figma to design hi fidelity prototypes. 
 
 In this assignment, you will design an app for a smartphone that provides automation control for a smart home. 
+
 Assumptions: 
 1. Use the following basic floor plan: 
   - 2 bedrooms, 2 bathrooms, kitchen, living room
