@@ -7,7 +7,7 @@ permalink: /A2/
 # Assigment 2: Hi Fidelity Prototype using Figma
 **Due:** Monday 10/11, by 11:59 pm
 
-This assignment will give you an opportunity to practice using Figma to design hi fidelity prototypes. It
+This assignment will give you an opportunity to practice using Figma to design hi fidelity prototypes. 
 
 In this assignment, you will design an app for a smartphone that provides automation control for a smart home. 
 Assumptions: 
