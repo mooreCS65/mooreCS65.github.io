@@ -16,7 +16,8 @@ Assignment descriptions can be found on Blackboard and should be turned in using
 
 ## Assignments:
 [Assignment 0](/A0/) <br>
-[Assignment 1](/A1/)
+[Assignment 1](/A1/) <br>
+[Assignment 2](/A2)
 
 ## Project Deliverables
 [Project Deliverable 0](/P0/) <br>
@@ -28,7 +29,6 @@ Assignment descriptions can be found on Blackboard and should be turned in using
 <br>
 
 ## Key:
-
 
 | Abbr. | Deliverable Type   | Time Due:    |
 |-------|--------------------|--------------|
