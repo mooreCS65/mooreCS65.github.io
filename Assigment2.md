@@ -7,9 +7,9 @@ permalink: /A2/
 # Assigment 2: Prototyping Practice
 **Due:** Monday 10/11, by 11:59 pm
 
-This assignment will give you an opportunity to practice using Figma to design hi fidelity prototypes. 
+This assignment is worth 30 points and will give you an opportunity to practice both low and hi fidelity prototyping.
 
-In this assignment, you will design an app for a smartphone that provides automation control for a smart home. 
+In this assignment, you will **design an app for a smartphone that provides automation control for a smart home**. 
 
 Assume that the house you're building this app for has 2 bedrooms, 2 bathrooms, a kitchen and a living room. You can also assume that there are sensors in place for you to get the necessary data from the house.
 
@@ -38,8 +38,8 @@ Find someone who is willing to test your paper prototype for you. Ask them to co
 - Set up an automation so that all of the lights in the house turn off after 10pm. 
 - Add one more task here that tests the additional feature you added. 
 
-Take notes on which tasks they were able to complete. It may be helpful (but isn't required) to record the user while they use your prototype. Submit your notes and an explanation of any usability issues you found from testing.
+Take notes on which tasks they were able to complete as well as any issues they ran into. It may be helpful (but isn't required) to record the user while they use your prototype. Submit your notes and an explanation of any usability issues you found from testing.
 
-## Part 3: Build out a hi-fi protoype in Figma. 
+## Part 3: Build out a hi-fi protoype in Figma. [ 10 points ]
 
 Use Figma to build a hi-fi prototype of your smart home automation system. Your prototype should be built from your original paper prototype, and should include any changes that you think are necessary after watching a user interact with your prototype. Be sure to explain any changes that you made. Include a link to your Figma prototype in the document that you submit to Blackboard. 
