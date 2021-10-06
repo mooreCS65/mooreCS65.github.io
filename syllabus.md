@@ -79,7 +79,7 @@ For all graded items, late submissions or make-ups will not be accepted unless a
 
 We will not meet during finals week. The last project is the primary deliverable due at the end of the semester.   
 
-### Short Exercises (10%):
+### Short Exercises (15%):
 There will be 10 short exercises throughout the semester that will require you to work in small groups to discuss and work together and turn in a solution. 
 Each of these short exercises are worth 1% of your final grade. Whether the short exercise should be completed individually or as a group will be 
 communicated for each short exercise.
@@ -97,10 +97,8 @@ You will participate in a semester long project in which you will design, implem
 so you will build your UI not just once, but multiple times, as successively higher-fidelity and more complete prototypes. The assignments will help guide you 
 along the process of building out your project and make sure you are making progress on the project throughout the semester. This project is a group project and should be copmleted in groups of 3 or 4 students.
 
-### Exams (20%):
-There are two exams, each of which are worth 10% of your final grade. They are very tentatively scheduled for:
-- Exam #1: October 13th 
-- Exam #2: November 22nd
+### Exams (15%):
+There will be one final exam in this course, although it will be taken during class time, not the final exam slot. This exam will be worth 15% of your final grade.
 
 ## Attendance
 In-person attendance is strongly encouraged--Short Exercises will be conducted in-class and will need to be turned in before the end of class.
