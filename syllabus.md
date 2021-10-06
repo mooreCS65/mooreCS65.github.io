@@ -69,12 +69,11 @@ The following table shows the categories of graded items and how much weight the
 
 | **Graded Items** | **Percentage**|
 |------------------|---------------|
-| Short Exercises     | 10%|
+| Short Exercises     | 15%|
 | Reading Reflections | 10%|
 | Assignments         | 20%|
 | Project             | 40%|
-| Exam #1             | 10%|
-| Exam #2             | 10%|
+| Final Exam          | 15%|
 
 For all graded items, late submissions or make-ups will not be accepted unless an exception is granted by the instructor prior to the due date.  
 
