@@ -29,7 +29,7 @@ up with 3 simple tasks and 2 complex tasks for your user to complete.
 - [ 3 points ] What are the design requirements for this idea? What functionality is necessary?
 
 
-## Part 2: Design a lo-fi prototype for the idea you chose [ 25 points ]
+## Part 2: Design a lo-fi prototype for the idea you chose [ 15 points ]
 Work as a group to design/develop a lo-fi (paper or digital) prototype for your group’s idea.
 Note that this doesn’t necessarily have to be a paper prototype, you are welcome to try using
 online wireframing tools, however, I encourage you to keep the fidelity low, we still want our
