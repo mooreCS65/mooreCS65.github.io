@@ -6,7 +6,7 @@ permalink: /P2/
 
 # Project Deliverable 2: Prototyping [ 50 points ] 
 
-**Due**: Monday, 10/4 by 11:59 pm.
+**Due**: Wednesday, 10/27 by 11:59 pm.
 
 ## Project Description:
 In the next step of your semester project, your team will work together to: 
