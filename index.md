@@ -22,7 +22,8 @@ Assignment descriptions can be found on Blackboard and should be turned in using
 ## Project Deliverables
 [Project Deliverable 0](/P0/) <br>
 [Project Deliverable 1](/P1/) <br>
-[Project Deliverable 2](/P2/)
+[Project Deliverable 2](/P2/)<br>
+[Project Deliverable 3](/P3/)
 
 ## Schedule 📆 
 
