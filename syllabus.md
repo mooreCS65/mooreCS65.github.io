@@ -70,8 +70,8 @@ The following table shows the categories of graded items and how much weight the
 | **Graded Items** | **Percentage**|
 |------------------|---------------|
 | Short Exercises     | 15%|
-| Reading Reflections | 10%|
-| Assignments         | 20%|
+| Reading Reflections | 15%|
+| Assignments         | 15%|
 | Project             | 40%|
 | Final Exam          | 15%|
 
@@ -84,13 +84,13 @@ There will be 10 short exercises throughout the semester that will require you t
 Each of these short exercises are worth 1% of your final grade. Whether the short exercise should be completed individually or as a group will be 
 communicated for each short exercise.
 
-### Reading Reflections (10%): 
+### Reading Reflections (15%): 
 Reading reflections will ask you to first, complete the reading that was assigned. Then you will be asked to not just summarize, but reflect on the reading
 and write a brief reflection that will be posted on Slack. Then you will be asked to read and interact with your peer's reflections. We will start class 
 by having a discussion around the reading and your reflections. 
 
-### Assignments (20%): 
-There will be 4 assignments totaling 20% of your final grade (5% each). These assignments will give you a chance to practice the skills you've learned in class. 
+### Assignments (15%): 
+There will be a few assignments totaling 20% of your final grade. These assignments will give you a chance to practice the skills you've learned in class. 
 
 ### Project (40%):
 You will participate in a semester long project in which you will design, implement, and evaluate a user interface. User interface design is an iterative process, 
