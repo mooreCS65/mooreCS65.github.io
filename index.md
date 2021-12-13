@@ -4,7 +4,7 @@ markdown: kramdown
 title: "CS195 HCI"
 ---
 
-## Welcome to CS195 Human Computer Interaction
+## Welcome to CS65 Introduction to Computer Science
 
 This website is where you will be able to find course resources like code, assignments and slides. The schedule below will be kept up to date.
 
@@ -15,16 +15,8 @@ Assignment descriptions can be found on Blackboard and should be turned in using
 [Fall 2021 Syllabus](/syllabus/)
 
 ## Assignments:
-[Assignment 0](/A0/) <br>
-[Assignment 1](/A1/) <br>
-[Assignment 2](/A2)
 
-## Project Deliverables
-[Project Deliverable 0](/P0/) <br>
-[Project Deliverable 1](/P1/) <br>
-[Project Deliverable 2](/P2/)<br>
-[Project Deliverable 3](/P3/)<br>
-[Project Deliverable 4](/P4/)
+TBA
 
 ## Schedule 📆 
 
