@@ -1,7 +1,7 @@
 ---
 layout: default
 markdown: kramdown
-title: "CS195 HCI"
+title: "CS065 Intro to CS"
 ---
 
 ## Welcome to CS65 Introduction to Computer Science
