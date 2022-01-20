@@ -12,7 +12,7 @@ Assignment descriptions can be found on Blackboard and should be turned in using
 
 ## Syllabus:
 
-[Spring 2022 Syllabus](/syllabus)
+[Spring 2022 Syllabus](/syllabus/)
 
 ## Assignments:
 
