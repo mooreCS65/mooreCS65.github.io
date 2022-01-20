@@ -46,26 +46,6 @@ This semester, we will be [using Calendly to schedule office hours](https://cale
 
 If you have a question, please send me an email or a message via Slack. The above hours are times that I guarantee i will be available for a virtual/in-person meeting. I will likely be in my office during the day whenever I am not in class or in a meeting. To guarantee a time we can meet outside of my office hours, contact me via email or Slack and we will set up a time when both of us are avaible. 
 
-## Course Description:
-Computer science is the study of algorithms – the development and evaluation of
-procedures designed to solve a problem. The study of computer science requires the
-ability to analyze ideas, think logically, and to communicate ideas clearly and concisely.
-The focus of this course will be on the development, implementation, and analysis of
-algorithms. In addition, the ethical and social issues surrounding technology will be
-discussed. A high-level programming language (Python) will be used in order to develop
-software that can effectively complete a variety of computational tasks.
-
-
-## Course Goals:
-At the end of this course, students that have taken an active part should be able to:
-- Understand the fundamentals of CS
-- Design, document, develop, test, and debug algorithms in the Python
-programming language
-- Recognize common data structures and how to use them to efficiently solve
-problems
-- Solve computational problems by breaking them into manageable parts and
-synthesizing them into a coherent whole
-
 ## Text
 There is no required textbook for the course. Assigned readings will be based on the free
 open-source textbook: [Think Python (Second Edition))](https://greenteapress.com/thinkpython2/html/index.html) by Allen B. Downey, 2015.
