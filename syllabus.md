@@ -152,7 +152,8 @@ fundamental for the course.
 The course includes a substantial project that is due at the end of the semester. More
 details will be announced later in the semester. The project will also include a final
 demonstration of the project. These project demos will take place during our assigned
-final exam period:  ()
+final exam period: 
+
 | **Section** |**Time** |**Place**|
 | ---------- | ---------- | ----------| 
 | Section 0 | Thu, May 12	12:00 – 1:50 pm | TBD|
