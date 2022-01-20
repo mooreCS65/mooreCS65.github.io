@@ -4,7 +4,7 @@ markdown: kramdown
 title: "CS065 Intro to CS"
 ---
 
-## Welcome to CS65 Intro to Computer Science
+## Welcome to CS65 Intro to Computer Science 👋 💻
 
 This website is where you will be able to find course resources like code, assignments and slides. The schedule below will be kept up to date.
 
@@ -21,5 +21,5 @@ Assignment descriptions can be found on Blackboard and should be turned in using
 
 
 ## FAQ ❓
-1. [How should I go about emailing you?](/email_tips/)
+1. [I'm stuck on an assignment, what should I do?](/unstuck/)
 2. [Who are you? What kind of research do you do?](https://merriekay.com)
