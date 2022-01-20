@@ -14,10 +14,6 @@ Assignment descriptions can be found on Blackboard and should be turned in using
 
 [Spring 2022 Syllabus](/syllabus/)
 
-## Assignments:
-
-TBA
-
 ## Schedule 📆 
 
 <iframe width='90%' height='700' src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSta5faVhTQlgJD6R0hVbZFR69PaeMlPIt5X4qf-7p9LOZyCB-gLR53Qg1hwCjV5DhtPa9mKNlUd4SU/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
