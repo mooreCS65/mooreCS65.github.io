@@ -198,6 +198,27 @@ Due dates for every assignment are provided on the course webpage as well as the
 
 Once you’ve exhausted your flex days, then point deductions will occur for any assignment submitted after the deadline. An assignment submitted 24 hours of the due date will only be eligible for 90% of the maximum number of point allotted. Assignments submitted more than 24 hours after the due date will not be accepted. If you experience extenuating circumstances (e.g., you are hospitalized) that prohibit you from submitting your assignments on time, please let me know. I will evaluate these instances on a case-by-case basis.
 
+## Getting Help
+There will be times in this class where you feel like you're stuck--that's perfectly okay and a big part of doing computer science. If you are stuck for longer than 30 minutes on one thing, please reach out and get help. Here are some things you can do to get unstuck:
+
+### Use Slack
+If you have a question, don't hesitate to post it on Slack. The `#assignments` channel is a great place to discuss assignment related questions and the `#general` channel is great for discussing any topic related to the class.
+
+**TIP:**
+On Slack, you can tag me by adding `@Meredith Moore` to your message. This will notify me immediately of your post. You can also message me privately by sending me a *Direct Message*.
+
+### CS Tutors ###
+Drake University offers **free** tutoring services for introductory computer science students. If you are interested in scheduling an individual tutoring appointment, visit the [Tutoring Services](https://library.drake.edu/get-help/services-for-students/tutoring/) page on the Cowles Library website. To see what slots are available, scroll down to the **Math Tutoring** section to see what times are open. (Math and CS are combined into one tutoring schedule since it is one department.)
+
+### Academic Success Resources ###
+Check out the [Academic Success](https://www.drake.edu/acadassist/) website. It includes a page for [Skills for Success](https://www.drake.edu/access-success/skillsforsuccess/) with excellent tips for management classwork. You may also find the following resources useful:
+- [Structuring Study Time](https://www.drake.edu/access-success/skillsforsuccess/studying/)
+    + [Notecards](https://www.drake.edu/access-success/skillsforsuccess/studying/usingnotecards/)
+    + [Preparing for and Taking Exams](https://www.drake.edu/access-success/skillsforsuccess/studying/testtaking/)
+- [Time Management](https://www.drake.edu/access-success/skillsforsuccess/timemanagement/)
+- [Avoiding Burnout](https://www.drake.edu/access-success/skillsforsuccess/avoidingburnout/)
+- [Online Learning Strategies](https://www.drake.edu/access-success/skillsforsuccess/onlinelearning/)
+
 ## Collaboration Policy
 The lab exercises are intended to be done in collaboration. The solutions to these in-class
 exercises should be developed amongst class partners and multiple names should be
