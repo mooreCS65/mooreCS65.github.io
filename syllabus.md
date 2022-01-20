@@ -189,7 +189,7 @@ If you have a question, don't hesitate to post it on Slack. The `#assignments` c
 >On Slack, you can tag me by adding `@Meredith Moore` to your message. This will notify me immediately of your post. You can also message me privately by sending me a *Direct Message*.
 
 ### CS Tutors ###
-Drake University offers **free** tutoring services for introductory computer science students. If you are interested in scheduling an individual tutoring appointment, visit the [Tutoring Services](https://library.drake.edu/get-help/services-for-students/tutoring/) page on the Cowles Library website. To see what slots are available, scroll down to the **Math Tutoring** section to see what times are open. (Math and CS are combined into one tutoring schedule since it is one department.)
+Drake University offers **free** tutoring services for introductory computer science students. If you are interested in scheduling an individual tutoring appointment, visit the [Tutoring Services](https://www.drake.edu/access-success/tutoring/#Math/Computer%20Science) page.
 
 ### Academic Success Resources ###
 Check out the [Academic Success](https://www.drake.edu/acadassist/) website. It includes a page for [Skills for Success](https://www.drake.edu/access-success/skillsforsuccess/) with excellent tips for management classwork. You may also find the following resources useful:
