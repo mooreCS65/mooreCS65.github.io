@@ -169,9 +169,9 @@ To encourage you to actively participate in Drake activities and to support your
 
 If you have an upcoming recital or any activity you'd like to invite your peers to, consider announcing it to the class. Your instructor will approve or disapprove posts on a case-by-case basis.
 
-**Note:** To claim extra credit for attending an activity, send an email to your instructor with "Extra Credit" in the title and a brief description of what happened at the event.
+>**Note:** To claim extra credit for attending an activity, send an email to your instructor with "Extra Credit" in the title and a brief description of what happened at the event.
 
-**Note:** You will only receive extra credit for attending approved activities **of your peers** or **general** activities. You will not receive activities for going to your own recitals, for example.
+>**Note:** You will only receive extra credit for attending approved activities **of your peers** or **general** activities. You will not receive activities for going to your own recitals, for example.
 
 
 ## Late Work Policy
@@ -185,8 +185,8 @@ There will be times in this class where you feel like you're stuck--that's perfe
 ### Use Slack
 If you have a question, don't hesitate to post it on Slack. The `#assignments` channel is a great place to discuss assignment related questions and the `#general` channel is great for discussing any topic related to the class.
 
-**TIP:**
-On Slack, you can tag me by adding `@Meredith Moore` to your message. This will notify me immediately of your post. You can also message me privately by sending me a *Direct Message*.
+>**TIP:**
+>On Slack, you can tag me by adding `@Meredith Moore` to your message. This will notify me immediately of your post. You can also message me privately by sending me a *Direct Message*.
 
 ### CS Tutors ###
 Drake University offers **free** tutoring services for introductory computer science students. If you are interested in scheduling an individual tutoring appointment, visit the [Tutoring Services](https://library.drake.edu/get-help/services-for-students/tutoring/) page on the Cowles Library website. To see what slots are available, scroll down to the **Math Tutoring** section to see what times are open. (Math and CS are combined into one tutoring schedule since it is one department.)
