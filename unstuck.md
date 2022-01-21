@@ -6,6 +6,8 @@ permalink: /unstuck/
 # 🆘 Getting Help
 There will be times in this class where you feel like you're stuck--that's perfectly okay and a big part of doing computer science. If you are stuck for longer than 30 minutes on one thing, please reach out and get help. Here are some things you can do to get unstuck:
 
+![i-needs-help-please-meme of a cute cat](i-needs-help-help-meme.jpeg)
+
 ## 📬 Use Slack
 If you have a question, don't hesitate to post it on Slack. The `#assignments` channel is a great place to discuss assignment related questions and the `#general` channel is great for discussing any topic related to the class.
 
