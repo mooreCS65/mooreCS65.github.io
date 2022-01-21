@@ -3,8 +3,29 @@ layout: default
 title: Email Tips
 permalink: /unstuck/
 ---
+# Getting Help
+There will be times in this class where you feel like you're stuck--that's perfectly okay and a big part of doing computer science. If you are stuck for longer than 30 minutes on one thing, please reach out and get help. Here are some things you can do to get unstuck:
 
-# ✉️ Email Tips 
+## Use Slack
+If you have a question, don't hesitate to post it on Slack. The `#assignments` channel is a great place to discuss assignment related questions and the `#general` channel is great for discussing any topic related to the class.
+
+>**TIP:**
+>On Slack, you can tag me by adding `@Meredith Moore` to your message. This will notify me immediately of your post. You can also message me privately by sending me a *Direct Message*.
+
+## CS Tutors ##
+Drake University offers **free** tutoring services for introductory computer science students. If you are interested in scheduling an individual tutoring appointment, visit the [Tutoring Services](https://www.drake.edu/access-success/tutoring/#Math/Computer%20Science) page.
+
+## Academic Success Resources ##
+Check out the [Academic Success](https://www.drake.edu/acadassist/) website. It includes a page for [Skills for Success](https://www.drake.edu/access-success/skillsforsuccess/) with excellent tips for management classwork. You may also find the following resources useful:
+- [Structuring Study Time](https://www.drake.edu/access-success/skillsforsuccess/studying/)
+    + [Notecards](https://www.drake.edu/access-success/skillsforsuccess/studying/usingnotecards/)
+    + [Preparing for and Taking Exams](https://www.drake.edu/access-success/skillsforsuccess/studying/testtaking/)
+- [Time Management](https://www.drake.edu/access-success/skillsforsuccess/timemanagement/)
+- [Avoiding Burnout](https://www.drake.edu/access-success/skillsforsuccess/avoidingburnout/)
+- [Online Learning Strategies](https://www.drake.edu/access-success/skillsforsuccess/onlinelearning/)
+
+
+## ✉️ Email Tips 
 
 Here are a few tips to make our communication as efficient as possible this semester.
 
@@ -33,12 +54,12 @@ the less likely there will be time for us to answer your question before the dea
 ## What _not_ to do:
 Here is an example of an email that is not very helpful. See if you can spot what Timmy did wrong:
 
-![A screenshot of an email that does not meet the guidelines above](/bad_email_new.png)
+![A screenshot of an email that does not meet the guidelines above](/cs65_bad_email.png)
 
 
 ## What to do:
 Here is an example of an email that includes all of the above. 
 *Please note that you should use the actual TA's email address, as ImTheCS65TA@drake.edu is not a real email address, the TA is currently TBD, so I haven't included the real email.*
 
-![A screenshot of an email that meets the above guidelines](/good_email_new.png)
+![A screenshot of an email that meets the above guidelines](/cs65_good_email.png)
 
