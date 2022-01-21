@@ -59,7 +59,7 @@ Here is an example of an email that is not very helpful. See if you can spot wha
 
 ## What to do:
 Here is an example of an email that includes all of the above. 
-*Please note that you should use the actual TA's email address, as ImTheCS65TA@drake.edu is not a real email address, the TA is currently TBD, so I haven't included the real email.*
+>*Please note that you should use the actual TA's email address, as ImTheCS65TA@drake.edu is not a real email address, the TA is currently TBD, so I haven't included the real email.*
 
 ![A screenshot of an email that meets the above guidelines](/cs65_good_email.png)
 
