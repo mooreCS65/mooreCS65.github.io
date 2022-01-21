@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Email Tips
+title: How to get Unstuck
 permalink: /unstuck/
 ---
 # 🆘 Getting Help
