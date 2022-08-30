@@ -8,18 +8,12 @@ There will be times in this class where you feel like you're stuck--that's perfe
 
 ![i-needs-help-please-meme of a cute cat](i-needs-help-help-meme.jpeg)
 
-## 📬 Use Slack
-If you have a question, don't hesitate to post it on Slack. The `#assignments` channel is a great place to discuss assignment related questions and the `#general` channel is great for discussing any topic related to the class.
-
->**TIP:**
->On Slack, you can tag me by adding `@Meredith Moore` to your message. This will notify me immediately of your post. You can also message me privately by sending me a *Direct Message*.
-
 ## 🏫 Office Hours
 This semester, we will be [using Calendly to schedule office hours](https://calendly.com/meredith-moore/office-hours). Feel free to grab more than one slot if you don't think 15 minutes is enough time. <br>
 
 | **Monday** |**Tuesday** |**Wednesday**|**Thursday** |**Friday**|
 | ---------- | ---------- | ----------| ---------- | ----------| 
-| 11:00 - 12:00 | 12:30 - 2:00| 11:00 - 12:00 | 12:30 - 2:00| email me if needed |
+| --| 11:00 - 1:00| -- | 11:00 - 1:00| 11:00 - 12:30 <br> walking office hours @ 1pm |
 
 If you have a question, please send me an email or a message via Slack. The above hours are times that I guarantee I will be available for a virtual/in-person meeting. I will likely be in my office during the day whenever I am not in class or in a meeting. To guarantee a time we can meet outside of my office hours, contact me via email or Slack and we will set up a time when both of us are avaible. 
 
