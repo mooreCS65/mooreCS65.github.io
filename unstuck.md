@@ -41,11 +41,8 @@ Check out the [Academic Success](https://www.drake.edu/acadassist/) website. It 
 Here are a few tips to make our communication as efficient as possible this semester.
 
 ### 1. Who:
-Let's start by the **who** to send it to. If you are looking for help debugging your code, make sure you send it to both:
+Let's start by the **who** to send it to. If you are looking for help debugging your code, make sure you send it to:
 - to [Professor Moore](mailto:meredith.moore@drake.edu)
-- The CS167 TA: [Sigi Brock](mailto:sigi.brock@drake.edu)
-
-If you also CC the TA this increases your chances of getting a quick response to your question. 
 
 ### 2. What: 
 A successful email to the professor, specifcially an email that is looking for help debugging some code should have a few components:
@@ -70,7 +67,7 @@ Here is an example of an email that is not very helpful. See if you can spot wha
 
 ### 👍 What to do:
 Here is an example of an email that includes all of the above. 
->*Please note that you should use the actual TA's email address, as ImTheCS65TA@drake.edu is not a real email address, please use [sigi.brock@drake.edu](mailto:sigibrock@drake.edu), instead.*
+
 
 ![A screenshot of an email that meets the above guidelines](/cs65_good_email.png)
 
